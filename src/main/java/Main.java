@@ -10,7 +10,7 @@ public class Main {
 
     // comment 2 (for git conflict)
     public static void main(String[] args) {
-        //comment1 (conflict)
+        //comment1 (conflict) conflict3
         System.out.println(File.separator);
     }
 }

@@ -20,6 +20,7 @@ public class Main {
         //10.11.24 20:46 My_feature
         //10.11.24 20:46 My_feature2 in github
         //16.11.24 18:07 create string in local branch feature/test-2-commit-in-origin-develop
+        //16.11.24 18:34 create string in local branch feature/test-2-commit-in-origin-develop
 
     }
 }

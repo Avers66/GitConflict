@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         //comment1 (conflict) conflict2
         System.out.println(File.separator);
- feature/test-2-commit-in-origin-develop
+        //feature/test-2-commit-in-origin-develop
         //added comment 2 3
         //added comment 3 2
         //added comment 23

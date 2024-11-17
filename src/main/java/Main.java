@@ -3,7 +3,7 @@ import java.io.File;
 /**
  * Main
  *
- * @Author Tretyakov Alexandr
+ * @Author Alexandr T
  */
 
 public class Main {
